@@ -1,4 +1,5 @@
-WEATHER WEBSITE : 
+# WEATHER WEBSITE 
+This project is a part of my internship training program at **Bharat Inter**
 
 A website built using Html, Css & Js that
 fetches weather data from an API and
