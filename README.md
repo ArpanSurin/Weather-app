@@ -11,3 +11,10 @@ displays the current weather conditions.
 **Front - End :**  Html, CSS, Javascript
 
 **Back-End :** Javascript
+
+## API Reference
+Get Weather API of all Places
+
+```bash
+   fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`)
+```
